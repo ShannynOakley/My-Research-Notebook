@@ -1,0 +1,19 @@
+# Excersis 1
+## Data searches for CWGC and Epigraphs
+
+Canadian War Graves Commission
+==============================
+- This is a search database that I am very familiar with, my high school history teacher gave out many assignments related to it.
+- I searched for the lastname Carr which was my paternal grandmother's maiden name, her brother Wellington had served in WWI.
+- For the search critia, I put Canadian Forces and First World War.
+- [My results](http://www.cwgc.org/find-war-dead.aspx?cpage=1)
+
+###
+Epigraphic Database Heidelberg
+==============================
+- This is a database that I had never heard about so I was a bit confused as to what critia needed to be filled out.
+- Like the excersise itself suggested, I searched for Figlin and thankfully only got 63 results.
+- [My results](http://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern=&literatur=&dat_jahr_a=&dat_jahr_e=&atext1=figlin&bool=AND&atext2=&sort=hd_nr&anzahl=20)
+
+####
+*Right now, my data is just being stored in a file, I am not entirely sure if I'm supposed to put it in this notebook*
