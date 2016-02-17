@@ -1,0 +1,5 @@
+## Well that was confusing
++ Turns out I had two folders called the same thing, the remote Github was attached to one of them while the local was paired with the other
++ So that was why nothing was showing up for me
++ I think I've gotten everything sorted out now so I can hopefully continue on with the modules
+*Fingers crossed*
