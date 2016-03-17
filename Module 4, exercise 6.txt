@@ -1,0 +1,5 @@
+Module 4, exercise 6
+
+Putting the data as individual sets looks much neater than the one where everything was put in at once. It also allowed for "real" words to be counted as opposed to just 'the' or 'and' like the first set. 
+Eventhough it probably takes more work, I can see that it would be clearly worth the extra effort since it ultimately makes the data sorting that much easier. 
+Once again, I really wish I had known about this program sooner as it would have come in handy in quite a few projects in my previous courses. 
