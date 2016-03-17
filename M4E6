@@ -1,0 +1,17 @@
+<?xml version='1.0'>
+<rows>
+	<row>
+		<field name='document'>1</field>
+		<field name='term'>canada</field>
+		<field name='1'>0.000038771926</field>
+		<field name='2'>0.00013847116</field>
+		<field name='3'>0.00014954885</field>
+		<field name='4'>0.00014401002</field>
+		<field name='5'>0.000121854624</field>
+		<field name='6'>0.000044310775</field>
+		<field name='7'>0.000038771926</field>
+		<field name='8'>0.00007200501</field>
+		<field name='9'>0.000027694234</field>
+		<field name='10'>0</field>
+	</row>
+</rows>
