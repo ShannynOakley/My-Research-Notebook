@@ -1,0 +1,5 @@
+Module 4, exercise 4
+
+For the document search, I put in the words "Country", "Quebec", and "Land". These were primarily just to test how the program works, but I did find some interesting points from them. 
+
+I really like that you can use the "Tree" part to really concentrate your search on specific terms, this would come in handy for a essay I'm writing for another class on Canadian treaties. 
