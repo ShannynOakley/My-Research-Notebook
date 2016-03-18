@@ -1,0 +1,3 @@
+Module 5 problem 
+
+Trying to do the final exercise (the poster redo) but every time I try to open the Github where the templates are my browser crashes...it's happened five times now. Tried it on a different browser but the same thing happened again. 
