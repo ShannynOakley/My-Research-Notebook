@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>12</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+              <p> ...ease of the Black population has a better chance of being at least understood by them than us. Accordingly,
+                  in some of the old states, and in all which have been recently admitted into the Union, slavery has been formally 
+                  excluded from their constitution. The whole of the Eastern and a great part of the Central States, and many 
+                  enlightened individuals even in the southern provinces, particularly the Quakers <interp key="Quakers involvement in the Abolition movement" n="E2BN and MLA East of London, Quakers/Society of Friends in The Abolition Project" cert="high" ref="http://abolition.e2bn.org/people_21.html"> </interp>, 
+				  are declared enemies of 
+                  the system of slavery. It is true, that, for the most part, they oppose it rather as a great political evil, 
+				  than as a violation of the eternal obligations of humanity and justice : nevertheless, its extent is in this 
+				  way gradually narrowing. With them there is no dispute, nor, indeed, can there be, respecting the opprobrious 
+				  and humiliating facts of the case. With us, on the contrary, the only persons who, in general, have an 
+				  opportunity of viewing with their own eyes the state of colonial bondage, are persons interested in upholding
+				  it. And they are induced by tenderness for their own reputation, as well as by the strong feeling of interest,
+				  and, we may add, by pride, to throw a veil over the enormities of the system, and to resist every attempt to
+				  withdraw it. The advantage which America possesses in this important respect, would encourage a hope of 
+				  eventual extinction of the evil at no very distant period, at least, at an earlier period than it would be 
+				  reasonable to expect it in our own colonial possessions, but for another circumstance on which Mr. Hall <persName key="Hall, Francis" role="Lieutenant" ref="http://www.kouroo.info/kouroo/thumbnails/H/ColonelFrancisHall.pdf"> </persName>, 
+				  incidentally, but feelingly, touches, and which must have a powerful influence in perpetuating the miseries
+				  of slavery in the United States; we mean, the force of habit. Let any one consider, for a moment, the 
+				  different sensations with which an individual who had never witnessed the infliction of a wound, and a 
+				  practised surgeon, would regard the amputation of a limb;--or the disgust which would be excited in an...
+				</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

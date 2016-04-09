@@ -1,0 +1,299 @@
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: March 16 1842
+DATE: April 29 1842
+ORGANIZATION: Cyprey     A.
+DATE: December 30 1840
+DATE: December 19 1840
+PERSON: Wyse
+LOCATION: Santa Maria
+DATE: October 28 1840
+ORGANIZATION: Wm. Henry Daingerfield     Secretary of State
+DATE: May 17 1842
+PERSON: Sam Houston
+DATE: June 6 1842
+ORGANIZATION: A. de Saligny      Anson Jones
+DATE: June 7
+PERSON: Sam Houston      A. de Saligny
+DATE: June 8
+PERSON: Anson Jones
+DATE: June 8 1842
+ORGANIZATION: A. de Saligny      Anson Jones
+DATE: June 20 1842
+ORGANIZATION: Ashbel Smith       Geo
+DATE: May 12 1842
+ORGANIZATION: Ashbel Smith       Theodore Barbey
+DATE: May 13
+PERSON: S. Mcintosh      Ashbel Smith
+DATE: May 18
+PERSON: Henry Castro     Ashbel Smith
+DATE: May 23 1842
+ORGANIZATION: Ashbel Smith       Geo
+DATE: June 1
+PERSON: Henry Castro     Ashbel Smith
+DATE: June 4
+PERSON: Henry Castro     Ashbel Smith
+DATE: June 12
+PERSON: Henry Castro     Ashbel Smith
+DATE: June 15 1842
+PERSON: Barbey   Ashbel Smith
+DATE: June 28
+PERSON: Henry Castro     Ashbel Smith
+DATE: June 28 1842
+PERSON: S. Mcintosh      Ashbel Smith
+DATE: June 29 1842
+ORGANIZATION: Ashbel Smith       Theodore Barbey
+DATE: June 30
+PERSON: Sam Houston      Ashbel Smith
+DATE: July 15 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: August 1 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: August 15 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: August 31
+PERSON: Ashbel Smith
+DATE: August 15 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: October 21 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: October 31 1842
+ORGANIZATION: Aflbbel Smith      Anaon Jones
+DATE: November 2 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: November 11 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: November 12 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: November 13 1842
+ORGANIZATION: M. Guizot  Ashbel Smith    August 22 1842
+Ashbel Smith     M. Guisot
+DATE: November 4 1842
+ORGANIZATION: M. Guizot  Ashbel Smith    November 8 1842
+Ashbel Smith     M. Guizot
+DATE: November 10
+PERSON: Ashbel Smith     Anson Jones
+DATE: November 30
+PERSON: G. W. Terrell    Ashbel Smith
+DATE: December 10 1842
+DATE: December 23
+PERSON: Anson Jones      Ashbel Smith
+DATE: December 26 1842
+DATE: December 26 1842
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: December 30
+PERSON: Ashbel Smith     Anson Jones
+DATE: January 11
+PERSON: Viscount J. de Cramayel  Anson Jones
+DATE: January 16 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: January 28
+PERSON: Viscount J. de Cramayel  Anson Jones
+DATE: January 28
+PERSON: Anson Jones      Viscount J. de Cramayel
+DATE: February 9
+PERSON: Anson Jones      Viscount J. de Cramayel
+DATE: February 22 1843
+PERSON: Jones
+PERSON: Ashbel Smith
+DATE: February 26
+PERSON: Viscount J. de Cramayel  Anson Jones     March
+MONEY: Ã¢
+MONEY: ??  1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: March 31 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: April 11 1843
+ORGANIZATION: Ashbel Smith       M. Guizot
+DATE: February 19 1843
+ORGANIZATION: M. Guizot  Ashbel Smith    February 28 1843
+Ashbel Smith     M. Guizot       March 6 1843
+Ashbel Smith     M. Guizot
+DATE: March 30 1843
+ORGANIZATION: M. Guizot  Ashbel Smith    April 8 1843
+Ashbel Smith     M. Guizot       April
+DATE: 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: April 15 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: April 27 1843
+ORGANIZATION: M. Guizot  Ashbel Smithy
+PERSON: Ashbel Smith
+DATE: April 25 1843
+ORGANIZATION: Henry Castro       Ashbel Smith    March 5 1843
+Ashbel Smith     Henry Castro
+DATE: March 23
+PERSON: Sam Houston      Viscount J. de Cramayel
+DATE: May 6
+PERSON: Anson Jones      Viscount J. de Cramayel
+DATE: May 17
+PERSON: Viscount J. de Cramayel  Anson Jones
+DATE: June 10 1843
+PERSON: Henry Daingerfield       Ashbel Smith
+DATE: June 12
+PERSON: Anson Jones      Viscoimt J. de Cramayel
+DATE: June 15 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: June 16 1843
+ORGANIZATION: M. Guizot  Ashbel Smith
+DATE: April 28 1843
+ORGANIZATION: M. Guizot  Ashbel Smith
+DATE: May 8 1843
+PERSON: Henry Daingerfield       Ashbel Smith
+DATE: June 17
+PERSON: Anson Jones      Ashbel Smith
+DATE: June 21
+PERSON: James Hamilton   Anson Jones
+DATE: June 27 1843
+PERSON: Somervell        M. C. Hamilton
+DATE: June 27 1843
+PERSON: Henry Daingerfield       Anson Jones
+DATE: June 28
+PERSON: Viscount J. de Cramayel  Anson Jones
+DATE: July 20 1843
+ORGANIZATION: Wm. Henry Daingerfield     Secretary of State Jones
+DATE: July 31 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: August 15 1843
+ORGANIZATION: Ashbel Smith       M. Guizot
+DATE: August 23 1843
+ORGANIZATION: Asbbel Smith       Anson Jones
+DATE: September 19
+PERSON: Viscount J. de Cramayel  Anson Jones
+DATE: September 30 1843
+ORGANIZATION: Sam Houston        Anson Jones
+DATE: October 6 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: October 14 1843
+PERSON: Bourgeois        Ashbel Smith
+DATE: October 8 1843
+ORGANIZATION: Charles de Castell         Al
+DATE: September 26 1843
+ORGANIZATION: Ashbel Smith       Al
+DATE: October 3
+PERSON: Anson Jones      Viscount J. de Cramayel
+DATE: October 20 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: October 30 1843
+ORGANIZATION: Wm. Henry Daingerfield     Ashbel Smith    November 8 1843
+
+Ashbel Smith     Anson Jones
+DATE: December 30 1843
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: January 29 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: February 26
+MONEY: Ã¢
+PERSON: Anson Jones      Ashbel Smith
+DATE: March 26 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: May 6 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: June 2 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: August 13 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: October 16 1844
+ORGANIZATION: Ashbel Smith       Anson Jones
+DATE: November 13 1844
+DATE: December 4 1844
+ORGANIZATION: A. de Saligny      Ashbel Smith    March 4 1845
+Ashbel Smith     A.
+DATE: March 13
+PERSON: G. W. Terrell    Ashbel Smith
+DATE: March 18 1845
+ORGANIZATION: King of France
+DATE: 1496
+ORGANIZATION: King of France     Terrell
+DATE: 1497
+DATE: March 15 1845
+ORGANIZATION: Ashbel Smith       A.
+DATE: March 21 1845
+ORGANIZATION: A. de Saligny      Ebenezer Allen
+DATE: January 14 1846
+ORGANIZATION: Ebenezer Allen     A. de Saligny
+DATE: February 10 1846
+ORGANIZATION: Ashbel Smith       Washington Irving       September 7 1842
+
+Ashbel Smith     Anson Jones
+DATE: September 8 1842
+ORGANIZATION: Ashbel Smith       General Sancho  September 7 1842
+
+Anson Jones      Ashbel Smith
+DATE: February 16 1843
+ORGANIZATION: Ashbel Smith       Martinez de La Rosa
+DATE: February 1844
+PERSON: Henry Daingerfield       Lachlin
+DATE: January 26 1845
+PERSON: Hienry Daingerfield      Baron Roenne
+DATE: January 27 1845
+PERSON: Henry Daingerfield       G. W. Terrell
+DATE: February 5
+PERSON: James Hamilton   Abner S. Lipscomb
+DATE: September 10
+PERSON: James Hamilton   Abner S. Lipscomb
+DATE: January 4 1841
+ORGANIZATION: James Hamilton     Secretary of State
+PERSON: Roberts
+DATE: November 3
+PERSON: Anson Jones      Victor Pirson
+DATE: March 4 1842
+PERSON: Henry Daingerfield       Anson Jones
+DATE: May 16 1843
+ORGANIZATION: Wm. Henry Daingerfield     Count
+DATE: December 14
+PERSON: James Hamilton   Abner S. Lipscomb
+DATE: July 3
+PERSON: Abner S. Lipscomb        James Hamilton
+DATE: September 15
+PERSON: James Hamilton   Abner S. Lipscomb
+DATE: October 3 1840
+PERSON: Henry Daingerfield
+DATE: March 26
+PERSON: Anson Jones      James Hamilton
+DATE: June 4
+PERSON: Henry Daingerfield
+DATE: January 20 1843
+PERSON: Henry Daingerfield       Anson Jones
+DATE: November 12
+PERSON: Henry Castro     Anson Jones
+DATE: October 25 1843
+PERSON: Henry Daingerfield
+DATE: July 14 1844
+PERSON: Henry Daingerfield       Lachlin
+DATE: December 12 1844
+PERSON: Henry Daingerfield       Anson Jones
+DATE: February 3 1843
+PERSON: Henry Daingerfield
+DATE: February 20 1843
+PERSON: Henry Daingerfield       Anson Jones
+DATE: September 25 1843
+ORGANIZATION: Wm. Henry Daingerfield     V. Rumpff       January 5 1844
+
+Wm. Henry Daingerfield   Ashbel Smith
+DATE: February 14 1844
+PERSON: Henry Daingerfield       V. Rumpff
+DATE: March 17 1844
+PERSON: Henry Daingerfield       V. Rumpff
+DATE: March 27 1844
+PERSON: Henry Daingerfield       Anson Jones
+DATE: April 20 1844
+PERSON: Henry Daingerfield       Anson Jones
+DATE: April 22 1844
+PERSON: Henry Daingerfield       Anson Jones
+DATE: July 28 1844
+ORGANIZATION: Wm. Henry Daingerfield     Senator Gildmeister
+DATE: December 21 1844
+PERSON: Henry Daingerfield
+DATE: January 13 1845
+PERSON: Henry Daingerfield       G. W. Terrell
+DATE: January 14 1845
+ORGANIZATION: Ashbel Smith       Wm. Henry Daingerfield  February 13 1845
+
+Wm. Henry Daingerfield   Ebenezer Allen
+DATE: July 1 1845
+ORGANIZATION: Wm. Henry Daingerfield     Ashbel Smith
+DATE: July 1 1845
+PERSON: Henry Daingerfield       R. Sieveking
+DATE: October 1 1845
+PERSON: Henry Daingerfield       Ebenezer Allen
+DATE: February 2 1846
