@@ -1,0 +1,4 @@
+Module 2, exercise 2
+
+Included with the search results from OutWit Hub, there is the key terms and definitions of other Greek words - this could help if someone was looking for specific information and could even act as a starting point for more research. 
+Oddly, my Excel program did not like the file and warned me not to open it, so hopefully nothing that is appearing for me has been altering in any way from what is supposed to be showing...

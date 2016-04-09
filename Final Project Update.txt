@@ -1,0 +1,6 @@
+Final Project Update
+
+Spent today (March 26th) cleaning up my .txt data from the Wiki article on Victoria Cross winners. I have so far set up twelve columns of information relating to the soldier's name, nationality (by birth), birthdate and place, and their military rank. Right now I'm not too sure how much of it will actually make it into my final project but I am going to try to get as much information about these men as possible. 
+I still have to add some occupations, and verify some dates, but then I will be done and be able to move on to the next step.
+
+As of now, I am planning on setting on my site so that the soldiers are grouped by their country/province of birth so that people wanting to find Victoria Cross winners just from Manitoba will be able to do so easily. This might change as I proceed though as I start to actually get into the HTML side of things. 
